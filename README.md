@@ -10,3 +10,4 @@
 | Phan Trần Duy Đăng | [dangsangi](https://github.com/dangsangi)                    | [Duy Dang](https://www.linkedin.com/in/duy-dang-b9b317108) |
 | Phạm Văn Tình      | [tinhphamtnt](https://github.com/tinhphamtnt)	              | [Tinh Pham](https://www.linkedin.com/in/tinh-pham-b63058143) 					|
 | Nguyễn Hữu Khương  | [nguyenhuukhuong1986](https://github.com/nguyenhuukhuong1986)| [Khuong Nguyen Huu](https://www.linkedin.com/in/khuong-nguyen-huu-36767662) |
+| Nguyễn Phú Quốc    | [nguyenquoctnt](https://github.com/nguyenquoctnt)            | [Quoc Nguyen](https://www.linkedin.com/in/quoc-nguyen-939a38106/) |
