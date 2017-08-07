@@ -12,3 +12,4 @@
 | Nguyễn Hữu Khương  | [nguyenhuukhuong1986](https://github.com/nguyenhuukhuong1986)| [Khuong Nguyen Huu](https://www.linkedin.com/in/khuong-nguyen-huu-36767662) |
 | Nguyễn Phú Quốc    | [nguyenquoctnt](https://github.com/nguyenquoctnt)            | [Quoc Nguyen](https://www.linkedin.com/in/quoc-nguyen-939a38106/) |
 | Võ Duy Thắng 	     | [voduythang](https://github.com/voduythang)                  | [voduythang](https://www.linkedin.com/in/voduythang/) |
+| Bùi Quang Hưng     | [hungbq779](https://github.com/hungbq779)                    | [hungbq779](https://www.linkedin.com/in/hungbq779/) |
